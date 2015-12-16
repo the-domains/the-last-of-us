@@ -1,0 +1,28 @@
+name: The Last Of Us
+favicon: null
+layout_spectrum: 0.10025565116666257
+typography_spectrum: 0.05272308271378279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3643683549016714
+  lightness: 0.04947387473657727
+  saturation: 0.0485358836594969
+  rhythmicContrast: 0.6736564396414906
+purpose: []
